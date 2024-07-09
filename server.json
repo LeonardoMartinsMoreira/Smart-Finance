@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "category": "Teste",
+      "createdAt": "2024-07-09T03:57:42.705Z",
+      "price": 1200,
+      "title": "Teste1",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "category": "Teste",
+      "createdAt": "2024-07-09T03:57:54.835Z",
+      "price": 1500,
+      "title": "Teste2",
+      "type": "expense",
+      "id": 2
+    }
+  ]
+}
